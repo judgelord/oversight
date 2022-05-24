@@ -1,7 +1,7 @@
 ---
 knit: ( function(input, ...) { xaringan::infinite_moon_reader(input) } )
 title: "Oversight Beyond the Spotlight"
-subtitle: "Concepts of and Data for Measuring Overlooked Forms of Congressional Oversight"
+subtitle: "Concepts and Data for Measuring Overlooked Forms of Congressional Oversight"
 author: "Devin Judge-Lord <br>  Harvard University"
 date: "Slides & data: [judgelord.github.io/research/oversight](https://judgelord.github.io/research/oversight)"
 urlcolor: cyan
@@ -61,16 +61,16 @@ style_mono_light(base_color = "#3b444b",
 ### How do legislators engage with federal agencies?
 --
 
-- Pre-legislation coordination
+- Pre-legislation coordination 
 --
 
 - Traditional oversight (e.g., hearings, investigations, & reports)
 --
 
-- Casework/constituency service (implementation)
+- Post-legislation agency policymaking (e.g., rulemaking & budget allocation)  
 --
 
-- Post-legislation agency policymaking (e.g., rulemaking & budget allocation)  
+- Casework/constituency service (implementation)
 --
 
 
@@ -99,10 +99,17 @@ knitr::include_graphics("figs/levin/hearing.png")
 
 ---
 
-
 ### Oversight investigations inform agency policy 
 
 ```{r, fig.cap = "", out.width="55%"}
+knitr::include_graphics("figs/levin/rulemaking-fincen-large.png")
+```
+
+---
+
+### Oversight investigations inform agency policy 
+
+```{r, fig.cap = "", out.width="95%"}
 knitr::include_graphics("figs/levin/rulemaking-fincen.png")
 ```
 
@@ -114,7 +121,7 @@ Citing those investigations and hearings, Levin here wrote in support of a propo
 
 ### Oversight investigations inform agency policy 
 
-```{r, fig.cap = "", out.width="55%"}
+```{r, fig.cap = "", out.width="95%"}
 knitr::include_graphics("figs/levin/levin-rulemaking-investigation-foreign.png")
 ```
 
@@ -250,7 +257,9 @@ knitr::include_graphics("figs/oversight-data-agency-top-top-1.png")
 
 ---
 
-### Uneven attention to agency rulemaking over time 
+### Legislator attention to agency rulemaking is uneven over time 
+
+Most agency rules receive no attention from legislators
 
 ```{r,fig.cap = "Rulemaking Comments from Members of Congress per Year, 2005-2020", out.width="75%"}
 knitr::include_graphics("figs/data-congress-1.png")
@@ -303,10 +312,22 @@ knitr::include_graphics("figs/m-policy-1.png")
 
 ---
 
+# Thank you! 
+
+- Slides & data: [judgelord.github.io/research/oversight](https://judgelord.github.io/research/oversight)"
+
+Next steps:
+
+- What portion rulemaking 
+
+
+
+
+---
+
 class: inverse middle 
 
 # Extra Slides 
-
 
 
 
