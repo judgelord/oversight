@@ -85,7 +85,7 @@ style_mono_light(base_color = "#3b444b",
 
 ???
 
-Instead of starting with a definition of congressional oversight behavior and seeking out measures of it, I start with data on contacts between members of Congress and federal agencies and ask what portions might be thought of as different types of oversight. Inductive approach provokes some conceptual issues about what counts as oversight. 
+Instead of starting with a definition of congressional oversight behavior and seeking out measures for it, I start with data on contacts between members of Congress and federal agencies and ask what portions might be thought of as different types of oversight. My inductive approach provokes some conceptual issues about what counts as oversight. 
 
 ---
 
@@ -100,7 +100,7 @@ knitr::include_graphics("figs/levin/hearing.png")
 ---
 
 
-### Overight investigations inform agency policy 
+### Oversight investigations inform agency policy 
 
 ```{r, fig.cap = "", out.width="55%"}
 knitr::include_graphics("figs/levin/rulemaking-fincen.png")
@@ -108,22 +108,24 @@ knitr::include_graphics("figs/levin/rulemaking-fincen.png")
 
 ???
 
-Citing those investigations and hearings, Levin here writes in support of a proposed rule form the Treasury Financial Crimes  Enforcement Network
+Citing those investigations and hearings, Levin here wrote in support of a proposed rule from the Treasury Financial Crimes  Enforcement Network.
 
 ---
 
-### Overight investigations inform agency policy 
+### Oversight investigations inform agency policy 
 
 ```{r, fig.cap = "", out.width="55%"}
 knitr::include_graphics("figs/levin/levin-rulemaking-investigation-foreign.png")
 ```
 
 ???
-Here, senator leving writes to the IRS, entering an Committee Report into the recored suppoerting the rule. 
+Here, in 2012 senator living wrote to the IRS, entering a Committee Report and full 1000-page hearing transcript into the record supporting the rule. 
+
+THIS ONE NEARLY BROKE MY TEXT PROCESSING ALGORITHM. NOT ONLY WAS IT 1000 pages, but it was full of other members of Congress! 
 
 ---
 
-### Overight investigations inform agency policy 
+### Oversight investigations inform agency policy 
 
 ```{r, fig.cap = "", out.width="80%"}
 knitr::include_graphics("figs/levin/levin-volcker.png")
@@ -131,11 +133,11 @@ knitr::include_graphics("figs/levin/levin-volcker.png")
 
 ???
 
-Here is another example: Senator Levin writes this letter chastising 5 agencies for being too slow to make rules
+Here is another example: Senator Levin writes this letter chastising five agencies for being too slow to make rules.
 
 ---
 
-### Legislators inform statutory interprtation
+### Legislators inform statutory interpretation
 
 ```{r, fig.cap = "", out.width="97%"}
 knitr::include_graphics("figs/levin/statutory-interpretation.png")
@@ -143,7 +145,7 @@ knitr::include_graphics("figs/levin/statutory-interpretation.png")
 
 ---
 
-### Legislators inform statutory interprtation
+### Legislators inform statutory interpretation
 
 ```{r, fig.cap = "", out.width="97%"}
 knitr::include_graphics("figs/levin/ILPP-reply.png")
@@ -152,7 +154,7 @@ knitr::include_graphics("figs/levin/ILPP-reply.png")
 
 ---
 
-### Legislators inform how agencies use descretionary authority
+### Legislators inform how agencies use discretionary authority
 
 ```{r, fig.cap = "", out.width="59%"}
 knitr::include_graphics("figs/levin/implementation-dodd-frank.png")
@@ -168,7 +170,7 @@ knitr::include_graphics("figs/levin/implementation-ssa.png")
 
 
 ???
-Here Senator Levin and others urge SSA to withdraw 
+Here Senator Levin and others urge SSA to withdraw. 
 
 ### Policy-related constituency service (implementation)
 
@@ -258,7 +260,7 @@ knitr::include_graphics("figs/data-congress-1.png")
 ???
 
 Bureau of Ocean Energy Management (BOEM), Consumer Financial Protection Bureau (CFPB), Department of Education (ED), Office of Energy Efficiency and Renewable Energy (EERE), Federal Aviation Administration (FAA), Fish and Wildlife Service (FWS),  Office of the Comptroller of the Currency (OCC), Occupational Safety and Health Administration (OSHA), Social Security Administration (SSA), U.S. Trade Representative (USTR)
-One mechanism by which campaigns may influence policy is by mobilizing members of Congress. Thus, I identify comments submitted by members of Congress and count the number of legislators in each lobbying coalition.  Figure \@ref(fig:data-congress) shows the number of comments from members of Congress received during rulemaking by a sample of federal agencies. There is massive variation in the level of attention that members of Congress pay to different agencies and rules. The spikes in attention to each agency correspond with public pressure campaigns targeting rules from that agency. Oversight letters are frequently co-signed by multiple members from the Senate, House, or both chambers. Some of the rules on which members of Congress commented appear in the hand-coded sample. Table \@ref(tab:data-coded-elected) shows the number of comments from the most common types of elected officials in the hand-coded data. Members of the U.S. House and Senate are the most common. 
+One mechanism by which campaigns may influence policy is by mobilizing members of Congress. Thus, I identify comments submitted by members of Congress and count the number of legislators in each lobbying coalition. Figure \@ref(fig:data-congress) shows the number of comments from members of Congress received during rulemaking by a sample of federal agencies. There is massive variation in the level of attention that members of Congress pay to different agencies and rules. The spikes in attention to each agency correspond with public pressure campaigns targeting rules from that agency. Oversight letters are frequently co-signed by multiple members from the Senate, House, or both chambers. Some of the rules on which members of Congress commented appear in the hand-coded sample. Table \@ref(tab:data-coded-elected) shows the number of comments from the most common types of elected officials in the hand-coded data. Members of the U.S. House and Senate are the most common. 
 
 
 
@@ -289,7 +291,7 @@ knitr::include_graphics("figs/m-policy-predicted-4.png")
 
 ---
 
-### More expierneced members do more policy work
+### More experienced members do more policy work
 
 
 ```{r, fig.cap = "", out.width="55%"}
@@ -313,11 +315,11 @@ class: inverse middle
 class: inverse  middle 
 
 
-# Interest groups mobililze oversight
+# Interest groups mobilize oversight
 
 ---
 
-A [press release from the Sierra Club](https://www.sierraclub.org/press-releases/2019/08/trump-extinction-plan-guts-endangered-species-act) on 2019 rule to consider cost, not climate under the Endangered Species Act (1972, amended 1982)
+A [press release from the Sierra Club](https://www.sierraclub.org/press-releases/2019/08/trump-extinction-plan-guts-endangered-species-act) on 2019 rule to consider cost, not climate, under the Endangered Species Act (1972, amended 1982)
 
 ```{r, fig.cap = "Sierra Club Press Release"}
 knitr::include_graphics("figs/FWS-HQ-ES-2018-0006-53372-press.png")
@@ -326,7 +328,7 @@ knitr::include_graphics("figs/FWS-HQ-ES-2018-0006-53372-press.png")
 
 ???
 
-“Last fall, 105 Members of Congress and 34 U.S. Senators sent letters to Trump’s Department of the Interior to protest the harmful rollbacks.” https://www.sierraclub.org/press-releases/2019/08/trump-extinction-plan-guts-endangered-species-act
+"Last fall, 105 Members of Congress and 34 U.S. Senators sent letters to Trump's Department of the Interior to protest the harmful rollbacks." https://www.sierraclub.org/press-releases/2019/08/trump-extinction-plan-guts-endangered-species-act
 
 https://www.regulations.gov/comment/FWS-HQ-ES-2018-0006-53372
 
@@ -360,7 +362,7 @@ Attention (Jones & Baumgartner 2005)
 
 ---
 
-## Do allies in Congress help pressure campaigns win? 
+## Do allies in Congress help pressure campaigns to win? 
 
 - Agency responses to interest groups depend on Congressional attention (Yackee 2006)
 
@@ -529,7 +531,7 @@ class: inverse  middle
 - Public interest groups and individuals supported Obama's policies and opposed Trump's
 - Legislators tended to oppose policies of both administrations
 
-```{r coded-support, out.width= "60%", fig.cap="Hand-coded Comments By Type and Position on Proposed Rule"}
+```{r coded-support, out.width= "53%", fig.cap="Hand-coded Comments By Type and Position on Proposed Rule"}
 knitr::include_graphics("figs/coded-support-1.png")
 ```
 
@@ -546,7 +548,7 @@ knitr::include_graphics("figs/data-congress-1.png")
 ???
 
 Bureau of Ocean Energy Management (BOEM), Consumer Financial Protection Bureau (CFPB), Department of Education (ED), Office of Energy Efficiency and Renewable Energy (EERE), Federal Aviation Administration (FAA), Fish and Wildlife Service (FWS),  Office of the Comptroller of the Currency (OCC), Occupational Safety and Health Administration (OSHA), Social Security Administration (SSA), U.S. Trade Representative (USTR)
-One mechanism by which campaigns may influence policy is by mobilizing members of Congress. Thus, I identify comments submitted by members of Congress and count the number of legislators in each lobbying coalition.  Figure \@ref(fig:data-congress) shows the number of comments from members of Congress received during rulemaking by a sample of federal agencies. There is massive variation in the level of attention that members of Congress pay to different agencies and rules. The spikes in attention to each agency correspond with public pressure campaigns targeting rules from that agency. Oversight letters are frequently co-signed by multiple members from the Senate, House, or both chambers. Some of the rules on which members of Congress commented appear in the hand-coded sample. Table \@ref(tab:data-coded-elected) shows the number of comments from the most common types of elected officials in the hand-coded data. Members of the U.S. House and Senate are the most common. 
+One mechanism by which campaigns may influence policy is by mobilizing members of Congress. Thus, I identify comments submitted by members of Congress and count the number of legislators in each lobbying coalition. Figure \@ref(fig:data-congress) shows the number of comments from members of Congress received during rulemaking by a sample of federal agencies. There is massive variation in the level of attention that members of Congress pay to different agencies and rules. The spikes in attention to each agency correspond with public pressure campaigns targeting rules from that agency. Oversight letters are frequently co-signed by multiple members from the Senate, House, or both chambers. Some of the rules on which members of Congress commented appear in the hand-coded sample. Table \@ref(tab:data-coded-elected) shows the number of comments from the most common types of elected officials in the hand-coded data. Members of the U.S. House and Senate are the most common. 
 
 
 ---
@@ -564,7 +566,7 @@ Controlling for policy positions,
 - Congressional support is weakly correlated with pressure campaigns 
 - Public interest coalitions enjoy more legislator support
 
-```{r, fig.cap="", fig.show = "hold", out.width = "75%"}
+```{r, fig.cap="", fig.show = "hold", out.width = "65%"}
 knitr::include_graphics("figs/model-oversight-1.png")
 ```
 
@@ -575,7 +577,7 @@ knitr::include_graphics("figs/model-oversight-1.png")
 
 - When organizations have more congressional support, they are more likely to achieve their policy goals (difference-in-difference design)
 
-```{r mo-success-did, fig.cap="", fig.show = "hold", out.width = "60%"}
+```{r mo-success-did, fig.cap="", fig.show = "hold", out.width = "38%"}
 knitr::include_graphics("figs/mo-success-did.png")
 ```
 
@@ -589,7 +591,7 @@ knitr::include_graphics("figs/mo-success-did.png")
 
 -  Unlike groups and individuals, legislators most often engage when they oppose rules (supporting Lowande & Potter 2021)
 
-- While this often makes legislators on the same side as corporations, controlling for policy position, legislators are slightly more likely to support public interest coalitions
+- While this often puts legislators on the same side as corporations, controlling for policy position, legislators are slightly more likely to support public interest coalitions
 
 - Lobbying efforts with more allies in Congress are more likely to win
 
@@ -661,7 +663,7 @@ knitr::include_graphics("figs/congress/TREAS-DO-2007-0015-0125.png")
 
 ## Procceedural politicking
 
-> "That’s why I am particularly disappointed that CEQ denied my---and more than 160 Members of the House and Senate---request for an extension of the comment period. Further, CEQ simply chose to not respond to our request for additional public hearings. CEQ has proposed a massive overhaul to a set of keystone environmental regulations that have stood in place — largely unchanged for almost half a century. By providing a mere 60-day comment period, and only two public hearings (in Colorado and Washington, DC), CEQ appears uninterested in obtaining broadscale public input." - [Oregon Representative Peter DeFazio, Chairman of the Committee on Transportation and Infrastructure.](https://www.regulations.gov/comment/CEQ-2019-0003-169768)
+> "That's why I am particularly disappointed that CEQ denied my---and more than 160 Members of the House and Senate---request for an extension of the comment period. Further, CEQ simply chose to not respond to our request for additional public hearings. CEQ has proposed a massive overhaul to a set of keystone environmental regulations that have stood in place — largely unchanged for almost half a century. By providing a mere 60-day comment period, and only two public hearings (in Colorado and Washington, DC), CEQ appears uninterested in obtaining broadscale public input." - [Oregon Representative Peter DeFazio, Chairman of the Committee on Transportation and Infrastructure.](https://www.regulations.gov/comment/CEQ-2019-0003-169768)
 
 ---
 
@@ -680,7 +682,7 @@ knitr::include_graphics("figs/congress/OCC-2020-0026-0002.png")
 knitr::include_graphics("figs/congress/OCC-2020-0026-0277.png")
 ```
 
-These examples illustrate how “states rights” rhetoric is used strategically depending on which side of the substantive issue one is on.
+These examples illustrate how "states' rights" rhetoric is used strategically depending on which side of the substantive issue one is on.
 Here, Democrats are advocating for states' rights, while Republicans want a federal standard that would preempt state policy.
 
 ---
@@ -707,7 +709,7 @@ knitr::include_graphics("figs/congress/IRS-2016-0015-0134.png")
 
 <!--
 
-nothing super interesting about this joint comment from members of Congress, just that they support the rule, but could be another example https://www.regulations.gov/comment/NOAA-NOS-2013-0091-0188
+nothing super interesting about this joint comment from members of Congress, just that they support the rule, but it could be another example https://www.regulations.gov/comment/NOAA-NOS-2013-0091-0188
 -->
 
 ---
@@ -742,7 +744,7 @@ https://www.regulations.gov/comment/WHD-2019-0003-12750  Senators
 
 ## Partisan Opposition
 
-Strong words from Democrat, [Tom Malinowski](https://www.regulations.gov/document/CFPB-2019-0006-39935)
+Strong words from Democrat [Tom Malinowski](https://www.regulations.gov/document/CFPB-2019-0006-39935)
 and [other democrats](https://www.regulations.gov/document?D=CFPB-2019-0006-0344) who oppose the Trump-era CFPB rule that would deregulate payday lenders.
 
 ```{r, out.width = "100%"}
@@ -753,7 +755,7 @@ knitr::include_graphics("figs/congress/CFPB-2019-0006-0344.png")
 
 ---
 
-Democrats demand a stronger rule on wages and low-income individuals. [The House comment has 77 signatories.](https://www.regulations.gov/comment/WHD-2019-0001-59350)
+Democrats demand a stricter rule on wages and low-income individuals. [The House comment has 77 signatories.](https://www.regulations.gov/comment/WHD-2019-0001-59350)
 [The Senate comment has 23](https://www.regulations.gov/comment/WHD-2019-0001-59355)
 
 
@@ -772,7 +774,7 @@ knitr::include_graphics("figs/congress/IRS-2019-0039-8319.png")
 
 [Democratic Senators oppose the CFPB's 2019 rule that makes it easier for debt collectors to harass consumers.](https://www.regulations.gov/comment/CFPB-2019-0022-0053)
 [As do Democrats in the House.](https://www.regulations.gov/comment/CFPB-2019-0022-12107)
-[Katie Porter, writes separately to oppose CFPB's 2019 debt collection rule.](https://www.regulations.gov/comment/CFPB-2019-0022-14364)
+[Katie Porter writes separately to oppose CFPB's 2019 debt collection rule.](https://www.regulations.gov/comment/CFPB-2019-0022-14364)
 
 ```{r, out.width = "50%"}
 knitr::include_graphics("figs/congress/whiteboard.png")
@@ -781,7 +783,7 @@ knitr::include_graphics("figs/congress/whiteboard.png")
 
 
 <!--
-Identical comments submitted by the same Senators and Reps.  Not sure if this was a mistake or an influence tactic.  In either case, I thought it was worth sharing. https://www.regulations.gov/comment/WHD-2019-0001-59232 and https://www.regulations.gov/comment/WHD-2019-0001-59354
+Identical comments submitted by the same Senators and Reps. Not sure if this was a mistake or an influence tactic. In either case, I thought it was worth sharing. https://www.regulations.gov/comment/WHD-2019-0001-59232 and https://www.regulations.gov/comment/WHD-2019-0001-59354
 
 
 Members of Congress speaking on behalf of their constituents in the FWS rule.                                   Senator Herb Kohl https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-8999     Senator Robert C. Byrd https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-9434 Representative Todd Russell Platts https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-10026   Representative Peter J. Visclosky https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-10028   https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-10027 (edited) 
@@ -791,7 +793,7 @@ Members of Congress speaking on behalf of their constituents in the FWS rule.   
 
 
 
-Indiana Senator Richard Lugar submits a letter on behalf of a constituent. I noticed that in the from-line, it has Ocean Conservancy, and the email is save the animals. https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-8940
+Indiana Senator Richard Lugar submits a letter on behalf of a constituent. I noticed that in the from-line, it has Ocean Conservancy, and the email saves the animals. https://www.regulations.gov/comment/FWS-R9-ES-2008-0093-8940
 
 
 Louisiana Representative Mike Johnson commenting in support of the CEQ rule https://www.regulations.gov/comment/CEQ-2019-0003-169623
@@ -799,7 +801,7 @@ Louisiana Representative Mike Johnson commenting in support of the CEQ rule http
 https://www.regulations.gov/document?D=NPS-2018-0007-63145
 
 
-Three comments submitted by Senators on the CEQ opposing the rule, that were similar yet different. The first comment had four signatures and the second had eight signatures, and the third had 6. Some of the Senators that signed were on the Environment and Public Works Committee, and Senator Thomas R. Carper is the Chairman. His signature has been on all 3. https://www.regulations.gov/comment/CEQ-2019-0003-173057 https://www.regulations.gov/comment/CEQ-2019-0003-173055 
+Three comments submitted by Senators on the CEQ opposing the rule were similar yet different. The first comment had four signatures and the second had eight signatures, and the third had 6. Some of the Senators that signed were on the Environment and Public Works Committee, and Senator Thomas R. Carper is the Chairman. His signature has been on all 3. https://www.regulations.gov/comment/CEQ-2019-0003-173057 https://www.regulations.gov/comment/CEQ-2019-0003-173055 
 https://www.regulations.gov/comment/CEQ-2019-0003-173056
 
 -->

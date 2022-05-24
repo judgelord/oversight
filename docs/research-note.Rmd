@@ -44,8 +44,8 @@ select <- . %>% dplyr::select()
 
 library(ggplot2); theme_set(theme_bw());
   options(
-    ggplot2.continuous.color = "viridis",
-    ggplot2.continuous.fill = "viridis"
+    ggplot2.continuous.color = "cividis",
+    ggplot2.continuous.fill = "cividis"
   )
   scale_color_discrete <- function(...){
     scale_color_viridis_d(..., #direction = -1, 
