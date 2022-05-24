@@ -27,5 +27,4 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 oversight.Rproj
-xaringan-themer.css
 .DS_Store
