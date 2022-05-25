@@ -343,6 +343,16 @@ d %>%
 ```
 
 
+# Members 
 
+```{r}
+d %>% 
+  filter(!is.na(name)) %>% 
+  group_by(name, congress, chamber, POLICY_EVENT ) %>% 
+  count() %>% 
+  group_by( congress, chamber, POLICY_EVENT ) %>% 
+  top_n(1) %>% 
+  arrange(-n) %>% view
+```
 
 
