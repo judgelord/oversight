@@ -21,7 +21,7 @@ editor_options:
 #source(here::here("code", "setup.r"))
 
 knitr::opts_chunk$set(echo = TRUE, 
-                      cache = TRUE, 
+                      cache = FALSE, 
                       message = FALSE,
                       warning = FALSE,
                       fig.width=6, 
@@ -89,6 +89,9 @@ Replication data are available in SQL and Rdata at https://github.com/judgelord/
 ```{r oversight-data, fig.height = 6}
 # load from book repo 
 load(here::here("data", "oversight.Rdata"))
+
+oversight %<>% mutate(agency = str_replace(agency, "HQ", "DHS"))
+
 
 # Load member data from R package
 #load(url("https://github.com/judgelord/augmentCongress/raw/main/data/members.rda"))
