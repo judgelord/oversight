@@ -280,6 +280,8 @@ knitr::include_graphics("figs/oversight-data-party-FOIA-1.png")
 
 ### Types of policy-related contacts/oversight vary across agencies 
 
+While congressional attention focuses on rulemaking, contacts with Homeland Security focus on traditional oversight, and contacts with USDA are mostly about Farm Bills.  
+
 
 
 ```{r, fig.cap = "", out.width="100%"}
