@@ -233,7 +233,7 @@ d %<>%
   mutate(prepost = case_when(
     str_detect(POLICY_EVENT, "Budget Allocation|Legislation") ~ "Pre-legislation Coordination\n(drafting legislation and agency budget proposals)",
     str_detect(POLICY_EVENT, "Rule|Appropriation") ~ "Post-legislation Oversight\n(comments on agency rulemaking and appropriations instructions)",
-    str_detect(POLICY_EVENT, "Hearing|Information|Meeting|Report") ~ "Traditional Oversight\n(hearnings and reports)",
+    str_detect(POLICY_EVENT, "Hearing|Information|Meeting|Report") ~ "Traditional Oversight\n(hearings and reports)",
     str_detect(POLICY_EVENT, "Lawsuit|Disaster|Decision|Other Oversight|Agency Personnel") ~ "Other Oversight\n(comments on lawsuits, disaster response, and agency personnel)",
     TRUE ~ ""
   ))
