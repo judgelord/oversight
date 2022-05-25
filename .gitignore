@@ -28,3 +28,4 @@ vignettes/*.pdf
 .Renviron
 oversight.Rproj
 .DS_Store
+xaringan-themer.css
